@@ -1,3 +1,5 @@
+![Luuk van Dijk – Frontend Developer & UI/UX Designer](./header.png)
+
 # 👋 Hey, ik ben Luuk
 
 Ik ben een **frontend developer & UI/UX designer** met oog voor detail, structuur en gebruiksvriendelijkheid.  
