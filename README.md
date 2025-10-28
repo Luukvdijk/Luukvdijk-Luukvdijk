@@ -29,7 +29,7 @@ Mijn passie ligt bij het **bouwen van websites** die er niet alleen goed uitzien
 
 ### 🌍 Meer over mij
 📍 Gebaseerd in Nederland  
-🖥️ Portfolio: [luukvandijk.dev](https://luukvandijk.dev)  
+🖥️ Portfolio: [luukvandijk.com](https://luukvandijk.com)
 💬 Altijd open voor een goed gesprek over webdesign, UX of performance  
 
 ---
